@@ -37,6 +37,7 @@ You can now login to you admin console to configure your tomcat server:
 
     http://127.0.0.1:8080/manager/html
     http://127.0.0.1:8080/host-manager/html
+    http://127.0.0.1:8080/admin
 
 
 Setting a specific password for the admin account
